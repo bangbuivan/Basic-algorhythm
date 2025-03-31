@@ -1,5 +1,5 @@
 //GenerateBinary
-
+#include<stdio.h>
 int i;
 void input(int *arr,int *n)
 {
